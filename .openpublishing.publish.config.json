@@ -3,9 +3,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_DocsBranch_Prod_Dynamic",
-      "build_source_folder": "E2E_DocsBranch_Prod_Dynamic",
-      "build_output_subfolder": "E2E_DocsBranch_Prod_Dynamic",
+      "docset_name": "E2E_DocsBranch_Dynamic",
+      "build_source_folder": ".",
+      "build_output_subfolder": "E2E_DocsBranch_Dynamic",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -26,7 +26,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/openpublish/templates.docs.msft",
-      "branch": "master",
+      "branch": "preview-release",
       "branch_mapping": {}
     }
   ],
